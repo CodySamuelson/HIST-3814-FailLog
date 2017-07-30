@@ -38,3 +38,6 @@
 # Going further with Open Refine
 - I'll do my best to actually try to go further. Had more fun than I thought I would.
 - Welp, can't figure out how to add the extension. Asked in Slack for help!
+- Professor suggested checking to see if program was up to date. I checked, and it seems fine.
+- Tried running again, still not working.
+- Unfortunately have to leave for the day now. :( Will have to try again at a later date!
