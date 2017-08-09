@@ -4,9 +4,9 @@ Final project time! My goal is to discover to what degree did turn of the 20th c
 
 It is important to note that the data captured or "taken" in this project is not being measured in a comprehensive fashion meant to capture the context behind the key terms. Rather, the thesis an conclusions put forth from this study will merely be used as an interpretation based on the frequency of the key terms int he given timeline. A more in-depth analysis surrounding the context of the key terms would be useful in rounding out this study and used to make more definitive conclusions.
 
-# Getting Started
+## Getting Started
 - First, I have to re-learn all of this stuff. I made a new account in DHbox, and am re-watching the professor's video on how to use wget.
 - Starting to download years 1901 - 1911 one year at a time using this line of code: *'wget http://collections.banq.qc.ca:8008/jrn03/equity/src/1884/ -A .txt -r --no-parent -nd –w 2 --limit-rate=200k'*. I am just changing the *year* each time. Might have to spend the whole day just gathering the required data.
 - All done! I checked off all of the files located in my file manager and started to download them. Not sure if this is the most efficient way to do things.
 - Ran into a little problem. I opened all of my 1901 txt files in Notepad++ but there are a lot, and they are all seperate. I need to find a way to merge all of the text into a single file covering all of the text in 1901.
-- 
+- Now that I have each file seperated by year in DHbox, I am having trouble trying to download these files onto my own computer so I can open them in Notepad++.
