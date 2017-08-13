@@ -28,7 +28,11 @@ Additionally, there is the ethics standpoint that must be considered before star
 2) Went to Menu "Search - Bookmark - Inverse Bookmark". All of the lines I wanted to delete were then bookmarked. 
 3) Finally, went to Menu "Search - Bookmark - Remove Bookmarked lines". This deleted all of the unwanted bokmard lines.
  
- - OK. So now I have a document that containes all of the line containing the word "_London_" that were written in 1901 in the Shawville Equity. Now I'm getting somewhere.
- - I cleaned up the text a bit in Notepad++ just by deleting some blank spaces. Now I will move on to Open Refine to transform into a strong cvs. document.
- - 
+ - OK. So now I have a document that containes all of the lines with the word "_London_" that were written in 1901 in the Shawville Equity. Now I'm getting somewhere.
+ - I cleaned up the text a bit in Notepad++ just by deleting some blank spaces. Now I will move on to Open Refine to transform into a strong cvs document. I then deleted the all of the content contained in each line except for each date. I now have a list of years, with each year in the table being an instance where the word "London" was used. For example, if I have 202 instances of 1905 in my document, this means that the word "London" appeared 202 times in the 1905 edition of the _Shawville Equity_.
+ - Now to duplicate the process for the other years. The final cvs document containing the data can be found _[here]_(https://github.com/CodySamuelson/FinalProjectHIST3814o/blob/master/London(1901-1911).cvs.csv).
+## Data Visualization
+- Tried to plug data into RAW, but did not respond correctly. Tried creating a header called _Date_ above each of the columns containing years. This did not work.
+- Hmmmm, maybe I'll try to put _Date: Year_ in the top of each column. This did not work either.
+
  
