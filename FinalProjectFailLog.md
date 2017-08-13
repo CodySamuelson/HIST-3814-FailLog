@@ -21,3 +21,14 @@ Additionally, there is the ethics standpoint that must be considered before star
 - Jeffblackadar is helping on Slack. Suggested _sudo bash -c :cat.... >fred.txt"_. Did not work.
 - Jeffblackadar suggested trying _$ sudo bash -c "cat *1901*>1901all.txt"_ to simplify the process. Did not work.
 - A file called "_fred.txt_" is being created but it is always empty. Neither of us is sure why.
+- Turns out I can open all of the files at once in Open Refine! I will import all of the files in a given year, and then export to a cvs file.
+- I ended up exporting it into Notepad++ in order to clean the text up. I wanted to find and delete any lines in all of the 1901 txt files that didn't containt the word "_London_". To do this, I Searched and found some help on Stackoverflow. 
+
+1) First, I went to the Search menu > Find... > Select "Mark" Tab. Activate regular expressions. Search for London. Don't forget to check "Bookmark lines" and Press "Mark All". All the rows I wanted to keep got a bookmark
+2) Went to Menu "Search - Bookmark - Inverse Bookmark". All of the lines I wanted to delete were then bookmarked. 
+3) Finally, went to Menu "Search - Bookmark - Remove Bookmarked lines". This deleted all of the unwanted bokmard lines.
+ 
+ - OK. So now I have a document that containes all of the line containing the word "_London_" that were written in 1901 in the Shawville Equity. Now I'm getting somewhere.
+ - I cleaned up the text a bit in Notepad++ just by deleting some blank spaces. Now I will move on to Open Refine to transform into a strong cvs. document.
+ - 
+ 
