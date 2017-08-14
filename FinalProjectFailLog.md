@@ -41,6 +41,7 @@ Additionally, there is the ethics standpoint that must be considered before star
 ## Presentation
 - I need to present these findings to other historians who might want to use the data. As such, I need to find a graph that can, at a glance, be both accurate in terms of numbers as well as visually appealing enough to capture attention. I will use [Inkspace](https://inkscape.org/en/release/0.92.2/) to make the presentation of my data more visually appealing.
 - In all honesty, the graph provided by Excel is quite good, and after looking through Inkspace, I couldn't really find many ways to improve it. However, again going through these steps gave me an idea. Instead of looking for more key terms like "Britain" and "Empire", which would essentially just tell me the same thing as "London", why not look up "Quebec" as a key term? I could then compare that to the term "London", and the resulting relationship would do more to describe Quebec nationalism at the turn of the 20th century.
-- 
+- SO, I re-did the process, only this time I was looking for "Quebec" as a key term rather than "London". Lucky this time went much faster. The new data-set can be found [here](https://github.com/CodySamuelson/FinalProjectHIST3814o/blob/master/Times%20London%20Was%20Mentioned%20Versus%20Quebec.xlsx).
+- Now to create the graph! 
 
  
